@@ -12,6 +12,6 @@ This project is a minimal setup using **React** with **Vite** including hot modu
 
 ## 🎥 Demo
 
-![Demo](/demo.gif)
+![Demo](public/demo.gif)
 
 > This demo shows the core functionality and UI of the app.
