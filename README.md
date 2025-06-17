@@ -1,12 +1,17 @@
-# React + Vite
+# 🚀 React + Vite / Next.js Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a minimal setup using **React** with **Vite** (or Next.js), including hot module replacement (HMR), ESLint rules, and a smooth development experience.
 
-Currently, two official plugins are available:
+## 📦 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React
+- ⚡ Vite (or Next.js)
+- 💅 ESLint & Prettier
+- 🔥 HMR (Hot Module Replacement)
+- 🎨 Tailwind CSS (if you're using it)
 
-## Expanding the ESLint configuration
+## 🎥 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Demo](assets/demo/demo.gif)
+
+> This demo shows the core functionality and UI of the app.
