@@ -1,6 +1,6 @@
-# 🚀 React + Vite / Next.js Project
+# 🚀 React + Vite 
 
-This project is a minimal setup using **React** with **Vite** (or Next.js), including hot module replacement (HMR), ESLint rules, and a smooth development experience.
+This project is a minimal setup using **React** with **Vite** including hot module replacement (HMR), ESLint rules, and a smooth development experience.
 
 ## 📦 Features
 
