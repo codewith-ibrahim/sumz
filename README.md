@@ -10,6 +10,11 @@ This project is a minimal setup using **React** with **Vite** including hot modu
 - 🔥 HMR (Hot Module Replacement)
 - 🎨 Tailwind CSS (if you're using it)
 
+## 🔗 Live
+
+[Visit the Live Site](https://sumz-zeta.vercel.app/)
+
+
 ## 🎥 Demo
 
 ![Demo](public/demo.gif)
